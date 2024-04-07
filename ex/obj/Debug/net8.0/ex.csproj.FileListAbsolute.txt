@@ -12,3 +12,4 @@ E:\03_csharp_exercises\double_array\ex\obj\Debug\net8.0\refint\ex.dll
 E:\03_csharp_exercises\double_array\ex\obj\Debug\net8.0\ex.pdb
 E:\03_csharp_exercises\double_array\ex\obj\Debug\net8.0\ex.genruntimeconfig.cache
 E:\03_csharp_exercises\double_array\ex\obj\Debug\net8.0\ref\ex.dll
+E:\03_csharp_exercises\double_array\ex\obj\Debug\net8.0\ex.sourcelink.json
