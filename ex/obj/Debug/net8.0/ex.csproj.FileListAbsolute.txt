@@ -1,0 +1,14 @@
+E:\03_csharp_exercises\double_array\ex\bin\Debug\net8.0\ex.exe
+E:\03_csharp_exercises\double_array\ex\bin\Debug\net8.0\ex.deps.json
+E:\03_csharp_exercises\double_array\ex\bin\Debug\net8.0\ex.runtimeconfig.json
+E:\03_csharp_exercises\double_array\ex\bin\Debug\net8.0\ex.dll
+E:\03_csharp_exercises\double_array\ex\bin\Debug\net8.0\ex.pdb
+E:\03_csharp_exercises\double_array\ex\obj\Debug\net8.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+E:\03_csharp_exercises\double_array\ex\obj\Debug\net8.0\ex.AssemblyInfoInputs.cache
+E:\03_csharp_exercises\double_array\ex\obj\Debug\net8.0\ex.AssemblyInfo.cs
+E:\03_csharp_exercises\double_array\ex\obj\Debug\net8.0\ex.csproj.CoreCompileInputs.cache
+E:\03_csharp_exercises\double_array\ex\obj\Debug\net8.0\ex.dll
+E:\03_csharp_exercises\double_array\ex\obj\Debug\net8.0\refint\ex.dll
+E:\03_csharp_exercises\double_array\ex\obj\Debug\net8.0\ex.pdb
+E:\03_csharp_exercises\double_array\ex\obj\Debug\net8.0\ex.genruntimeconfig.cache
+E:\03_csharp_exercises\double_array\ex\obj\Debug\net8.0\ref\ex.dll
